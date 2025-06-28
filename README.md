@@ -1,2 +1,3 @@
-# share-audio-thesis
+# DEVELOPMENT OF AN AI SYSTEM FOR AUTOMATED SUBTITLE GENERATION AND VOICE DUBBING INTO VIETNAMESE
+Nguyen Van Truong Khoa - 20521472
 This repository use for share audio file in thesis
