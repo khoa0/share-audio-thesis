@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/79c011c3-3cd3-48da-9512-f881192ee654
 https://github.com/user-attachments/assets/09ae8dc5-4fd6-4630-be6f-c3eaec42e981
 
 
-3. The comparision of audio from first fine-tuned model and vnTTS model
+2. The comparision of audio from first fine-tuned model and vnTTS model
 ### First fine-tuned model
 https://github.com/user-attachments/assets/8a11006e-3490-4303-84cb-048afea1d5d4
 
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/8a11006e-3490-4303-84cb-048afea1d5d4
 https://github.com/user-attachments/assets/f0fbd154-cd4e-4e66-9e3d-7ad06d0c6f7f
 
 
-5. The comparision of audio from second fine-tuned model and vnTTS model <br>
+3. The comparision of audio from second fine-tuned model and vnTTS model <br>
 ### Second fine-tuned model
 https://github.com/user-attachments/assets/f9af402f-1971-4b17-9751-ca5ca17ab938
 
