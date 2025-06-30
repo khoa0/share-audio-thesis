@@ -5,7 +5,10 @@ This repo contains a collection of audio files. You can preview each one right h
 
 1. The comparision of Noice audio before and after DeepfilterNet process <br>
 `Audio with noise` <br>
-https://github.com/user-attachments/assets/dc20968e-d00b-4333-814c-9f335e529f1c
+<video controls width="480">                         
+  <source src="deepfilternet_dataset_processed.wav" type="video/mp4">    
+  Your browser doesn’t support the video tag.      
+ </video> 
 
 
 `Noise audio after using DeepFilterNet` <br>
