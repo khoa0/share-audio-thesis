@@ -4,22 +4,29 @@ This repository use for share audio file in thesis
 This repo contains a collection of audio files. You can preview each one right here:
 
 1. The comparision of Noice audio before and after DeepfilterNet process <br>
-`Audio with noise` <br>
-<video controls width="480">                         
-  <source src="deepfilternet_dataset_processed.mov" type="video/mp4">    
-  Your browser doesn’t support the video tag.      
- </video> 
+### Audio with noise
+https://github.com/user-attachments/assets/79c011c3-3cd3-48da-9512-f881192ee654
 
 
-`Noise audio after using DeepFilterNet` <br>
-<audio controls src="deepfilternet_dataset_processed.wav"></audio> <br>
-3. The comparision of audio from first fine-tuned model and vnTTS model <br>
-`First fine-tuned model` <br>
-<audio controls src="first_fine_tuned_model_audio.wav"></audio> <br>
-`vnTTS model`
-<audio controls src="first_audio_vnTTS_model.wav"></audio> <br>
+### Noise audio after using DeepFilterNet
+https://github.com/user-attachments/assets/09ae8dc5-4fd6-4630-be6f-c3eaec42e981
+
+
+3. The comparision of audio from first fine-tuned model and vnTTS model
+### First fine-tuned model
+https://github.com/user-attachments/assets/8a11006e-3490-4303-84cb-048afea1d5d4
+
+
+### vnTTS model
+https://github.com/user-attachments/assets/f0fbd154-cd4e-4e66-9e3d-7ad06d0c6f7f
+
+
 5. The comparision of audio from second fine-tuned model and vnTTS model <br>
-`Second fine-tuned model`
-<audio controls src="second_fine_tuned_model_audio.wav"></audio> <br>
-`vnTTS model` <br>
-<audio controls src="second_audio_vnTTS_model.wav"></audio> <br>
+### Second fine-tuned model
+https://github.com/user-attachments/assets/f9af402f-1971-4b17-9751-ca5ca17ab938
+
+
+### vnTTS model
+https://github.com/user-attachments/assets/dd81252d-3f10-43c5-b2e7-c169935e40f3
+
+
